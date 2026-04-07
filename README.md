@@ -78,7 +78,7 @@ The experiment is repeated for different thread counts to analyze performance sc
 
 This graph illustrates how execution time varies with the number of threads used for matrix multiplication.
 
-![Execution Time vs Threads](execution_time_vs_threads.png)
+![Execution Time vs Threads](execution_graph.png)
 
 ### Observations
 
