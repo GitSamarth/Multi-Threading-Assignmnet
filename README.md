@@ -22,6 +22,7 @@ This assignment evaluates the performance of **multi-threaded matrix multiplicat
 | Language | Python |
 | Libraries | NumPy, Matplotlib, psutil |
 
+##Always take 2*no of cores
 ---
 
 # Methodology
@@ -29,7 +30,7 @@ This assignment evaluates the performance of **multi-threaded matrix multiplicat
 ## Step 1 — Matrix Generation
 
 - Generate one **constant matrix**
-- Generate **150 random matrices**
+- Generate **200 random matrices**
 - Matrix size: **1000 × 1000**
 
 ```python
